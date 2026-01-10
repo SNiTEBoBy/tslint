@@ -4,7 +4,7 @@
     "dependencies": {
         "foo": "latest",
         "bar": "latest",
-        "@angular/core": "4.4.5",
+        "@angular/core": "19.2.18",
         "@angular/common": "4.4.4"
     },
     "devDependencies": {
